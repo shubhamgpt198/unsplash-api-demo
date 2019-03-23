@@ -28,7 +28,10 @@ app.get('/', function(req, res){
     });
 
 
-
+    app.get('/about', function(req, res){
+      res.render('about.html', );
+      });
+  
 
 
   console.log("App running on: localhost:3000");
