@@ -4,7 +4,8 @@
   "description": "unsplash_api_demo",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "index.js"
   },
   "author": "shubham kumar gupta",
   "license": "ISC",
